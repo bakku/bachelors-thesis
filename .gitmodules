@@ -1,0 +1,3 @@
+[submodule "reminder-app-play"]
+	path = reminder-app-play
+	url = https://github.com/bakku/reminder-app-play

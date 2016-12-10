@@ -1,3 +1,6 @@
 [submodule "reminder-app-play"]
 	path = reminder-app-play
 	url = https://github.com/bakku/reminder-app-play
+[submodule "reminder-app-rails"]
+	path = reminder-app-rails
+	url = https://github.com/bakku/reminder-app-rails.git

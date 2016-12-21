@@ -4,3 +4,6 @@
 [submodule "reminder-app-rails"]
 	path = reminder-app-rails
 	url = https://github.com/bakku/reminder-app-rails.git
+[submodule "reminder-app-django"]
+	path = reminder-app-django
+	url = https://github.com/bakku/reminder-app-django.git

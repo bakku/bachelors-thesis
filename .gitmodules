@@ -7,3 +7,6 @@
 [submodule "reminder-app-django"]
 	path = reminder-app-django
 	url = https://github.com/bakku/reminder-app-django.git
+[submodule "reminder-app-laravel"]
+	path = reminder-app-laravel
+	url = https://github.com/bakku/reminder-app-laravel.git
